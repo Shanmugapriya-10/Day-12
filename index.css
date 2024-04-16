@@ -1,0 +1,22 @@
+
+
+.bi{
+    color: red
+  }
+  .unchecked{
+      color: orange
+  }
+  .btn{
+      background-color: #f2f2f2;
+      color: black;
+      border: black;
+  }
+  tr:nth-child(odd) {
+      background-color: #f2f2f2;
+   }
+   .table{
+      font-size: 10px;
+   }
+   .table > thead > tr > th{
+      background-color: white;      
+      }
